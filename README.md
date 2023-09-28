@@ -1,6 +1,6 @@
 # 🎮 JV Villanueva
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F71A0A&vCenter=true&width=435&height=20&lines=Aspiring+Full-Stack+Developer.;Always+keen+about+learning+new+tech.;Still+a+novice+and+a+lot+to+learn.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F71A0A&vCenter=true&width=435&height=20&lines=Aspiring+Full-Stack+Developer.;Always+keen+about+learning+new+tech.)](https://git.io/typing-svg)
 
 **`Digital Craftsman (Developer/Gamer/Frustrated Musician)`**
 
