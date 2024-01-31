@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Developer/Gamer/Frustrated Musician)`**
 
-I'm an aspiring full-stack developer who's always curious about how things work under the hood. I'm on a continuous learning journey to further enhance my skills in order to write robust and reusable codes. My goal? To be able to work for a company that will support my growth and make a lasting impact in the world of software development.
+I'm a full-stack developer who's always curious about how things work under the hood. I'm on a continuous learning journey to further enhance my skills in order to write robust and reusable codes. My goal? To be able to work for a company that will support my growth and make a lasting impact in the world of software development.
 
 <p> <a href="https://www.linkedin.com/in/jv-villanueva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:jv.villanueva9104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
 
